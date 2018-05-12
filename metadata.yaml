@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '33115'
     url: http://www.gutenberg.org/2009/agents/33115
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28064#The-Relations-of-the-Federal-Government-to-SlaveryDelivered-at-Fort-Wayne-Ind.-October-30th-1_
 gutenberg_bookshelf: Slavery
 gutenberg_issued: '2009-02-13'
 gutenberg_type: Text
